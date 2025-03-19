@@ -1,5 +1,5 @@
 <h1 align="center">Yo! Leyy is here 😼</h1>
-<h3 align="center">💻 Epitech student | Passionate about coding & innovation</h3>
+<h3 align="center">💻 Epitech student</h3>
 
 - 🚄 I'm working on **mysh**
 
