@@ -14,7 +14,6 @@
 - 📫 How to reach me **ryad.younes@epitech.eu**
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrOwOLeyy&layout=compact&theme=radical" width="400" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/?username=CrOwOleyy&show_icons=true&theme=radical&rank_icon=github" width="400" height="200" />
 </div>
 
