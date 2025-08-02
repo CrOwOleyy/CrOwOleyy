@@ -11,7 +11,7 @@
 
 - 🚀 Visit my best project at [https://crowoleyy.github.io/Plaza-Network/](https://crowoleyy.github.io/Plaza-Network/)
 
-- 📫 How to reach me **ryad.younes@epitech.eu**
+- 📫 How to reach me on Discord : crowoleyy
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/?username=CrOwOleyy&show_icons=true&theme=radical&rank_icon=github" width="400" height="200" />
@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ryad-younes-8a72b7269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryad-younes-8a72b7269/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@crowoleyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@crowoleyy" height="30" width="40" /></a>
 <a href="https://discord.gg/crowoleyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="crowoleyy" height="30" width="40" /></a>
 <a href="https://open.spotify.com/artist/317EqPWzKg2xyljrtBu8RY?si=eC7tFo7RQH2fPGGn14H1Ow" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="crowoleyy" height="30" width="40" /></a>
