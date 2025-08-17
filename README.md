@@ -7,7 +7,7 @@
 
 - 🎖️ I’m looking to collaborate with **Reakktor**
 
-- 👨‍💻 All of my projects are available at [https://crowoleyy.github.io/Portfolio/](https://crowoleyy.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://crowoleyy.github.io/Portfolio2/](https://crowoleyy.github.io/Portfolio2/)
 
 - 🚀 Visit my best project at [https://crowoleyy.github.io/Plaza-Network/](https://crowoleyy.github.io/Plaza-Network/)
 
