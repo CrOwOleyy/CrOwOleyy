@@ -7,9 +7,7 @@
 
 - 🎖️ I’m looking to collaborate with **Reakktor**
 
-- 👨‍💻 All of my projects are available at [https://crowoleyy.github.io/Portfolio2/](https://crowoleyy.github.io/Portfolio2/)
-
-- 🚀 Visit my best project at [https://crowoleyy.github.io/Plaza-Network/](https://crowoleyy.github.io/Plaza-Network/)
+- 👨‍💻 All of my projects are available at [Pepepak.fr](pepepak.fr)
 
 - 📫 How to reach me on Discord : crowoleyy
 
