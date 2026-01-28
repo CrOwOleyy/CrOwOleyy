@@ -1,9 +1,9 @@
-<h1 align="center">Hey it's So mi</h1>
+<h1 align="center">Broken vessel my beloved</h1>
 <h3 align="center">💻 Epitech student</h3>
 
 - 🚄 I'm working on **Pepepak**
 
-- 🌱 I’m currently learning **lua**
+- 🌱 I’m currently learning **C++**
 
 - 🎖️ I’m looking to collaborate with **Reakktor**
 
