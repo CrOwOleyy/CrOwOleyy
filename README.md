@@ -7,7 +7,7 @@
 
 - 🎖️ I’m looking to collaborate with **Reakktor**
 
-- 👨‍💻 All of my projects are available at [Pepepak.fr](pepepak.fr)
+- 👨‍💻 All of my projects are available at [Pepepak.fr](https://pepepak.fr)
 
 - 📫 How to reach me on Discord : crowoleyy
 
