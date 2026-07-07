@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">2nd year Epitech student</h3>
+<h3 align="center">3nd year Epitech student</h3>
 
 ###
 
