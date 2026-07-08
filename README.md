@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Leyy&fontSize=70&fontColor=FFFFFF&color=0:0d0d0d,50:1a0000,100:0d0d0d&stroke=cc0000&strokeWidth=2&desc=C%2B%2B%20Engineer%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20Epitech%20Marseille&descSize=18&descAlignY=72&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=10000&color=CC2200&center=true&vCenter=true&multiline=true&width=700&height=60&lines=👋+Welcome+in+my+kingdom+!;🌻+C%2B%2B+%7C+C+%7C+Low-Level+%7C+Graphics+%7C+Networking" alt="Typing SVG" />
-</p>
+<h3 align="center">👋 Welcome in my kingdom ! <br>🌻 C++ | C | Low-Level | Graphics | Networking </h3><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CrOwOleyy&style=flat-square&color=cc2200&label=Visitors" alt="Visitors" />
