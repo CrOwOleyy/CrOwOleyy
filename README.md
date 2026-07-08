@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Leyy&fontSize=70&fontColor=FFFFFF&color=0:0d0d0d,50:1a0000,100:0d0d0d&stroke=cc0000&strokeWidth=2&desc=C%2B%2B%20Engineer%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20Epitech%20Marseille&descSize=18&descAlignY=72&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Leyy&textBg=false&desc=C%2B%2B%20Engineer%20•%20Game%20Dev%20•%20Epitech%20Marseille&descAlignY=72&descSize=18&fontColor=FFFFFF" />
 </p>
 
-<h3 align="center">👋 Welcome in my kingdom ! <br>🌻 C++ | C | Low-Level | Graphics | Networking </h3><br>
+<p align="center">
+  👋 Welcome in my kingdom !<br>🌻C++ - Low-Level - Graphics - Networking
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CrOwOleyy&style=flat-square&color=cc2200&label=Visitors" alt="Visitors" />
