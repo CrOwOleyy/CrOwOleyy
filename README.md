@@ -20,8 +20,7 @@
 
 * 🎓 **Education**: 3rd year student at **Epitech** (Marseille, France).
 * 🌻 **Specialization**: High-performance software engineering & low-level architectures in **C++** and **C**.
-* 🚄 **Active Work**: Currently developing and refining my own MMORPG full C++ : **Immobile Point**.
-* 🎖️ **Objective**: Looking forward to collaborating on game engines and complex systems (Interested in working with *Reakktor*).
+* 🚄 **Active Work**: Currently **GameMaster**, Source Code Developer for **Neocron** !
 * 👨‍💻 **Webspace**: Check out my full catalog of creations at [pepepak.fr](https://pepepak.fr).
 
 ---
